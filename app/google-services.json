@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "451917864916",
+    "firebase_url": "https://age-calculator-315cb.firebaseio.com",
+    "project_id": "age-calculator-315cb",
+    "storage_bucket": "age-calculator-315cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451917864916:android:b1c08c10118d7af93dc041",
+        "android_client_info": {
+          "package_name": "app.my.otpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451917864916-930c5uotf2hqrac3svrpd6ncv2l9kljt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.my.otpverification",
+            "certificate_hash": "971258fa1edd9081f7a56431e5d5013799c28d90"
+          }
+        },
+        {
+          "client_id": "451917864916-l3fromklg3tv386htqh1eiq3alt438o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYoVCgfm00CzNJstTBj4lj-RVhtMXneyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451917864916-l3fromklg3tv386htqh1eiq3alt438o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451917864916:android:398d7d02db50b1d73dc041",
+        "android_client_info": {
+          "package_name": "best.dp.firebasefacebookloginsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451917864916-l3fromklg3tv386htqh1eiq3alt438o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYoVCgfm00CzNJstTBj4lj-RVhtMXneyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451917864916-l3fromklg3tv386htqh1eiq3alt438o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451917864916:android:3482aa376e82e1573dc041",
+        "android_client_info": {
+          "package_name": "com.myage.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451917864916-2b67medjbdv61ceocrmp3f1uhti4k7l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myage.calculator",
+            "certificate_hash": "193fe835457744800b9c7ce76102483ea8cdbaeb"
+          }
+        },
+        {
+          "client_id": "451917864916-l3fromklg3tv386htqh1eiq3alt438o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYoVCgfm00CzNJstTBj4lj-RVhtMXneyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451917864916-l3fromklg3tv386htqh1eiq3alt438o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
