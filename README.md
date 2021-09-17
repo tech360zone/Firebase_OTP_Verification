@@ -5,4 +5,4 @@ From this project you can learn how you can make otp verification app using Fire
 
 <h3>Watch Video</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCDgJ7Ya5G0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Firebase OTP Verification](https://tech360zone.com/wp-content/uploads/2021/09/thumbnail.png)](https://youtu.be/DCDgJ7Ya5G0)
